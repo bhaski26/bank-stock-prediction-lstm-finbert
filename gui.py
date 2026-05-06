@@ -54,7 +54,7 @@ ticker_map = {
 
 ticker = ticker_map[bank]
 
-MODEL_PATH = r"C:/Users/bhask/Downloads/Minor Project 2025-26/sources/bank_lstm_model.keras"
+MODEL_PATH = "bank_lstm_model.keras"
 
 # =========================================
 # LIVE PRICE
